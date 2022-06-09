@@ -5,7 +5,7 @@
 6번 이후의 내용은 추가적으로 진행한 내용입니다.
 SQS Test내용과 Lambda에서 Javascript로 index.js를 작성하여 배포할 때의 코드 내용입니다.
 
-<b>목차</b>
+<b>&nbsp;&nbsp;&nbsp;목차</b>
 1. Lambda 함수 생성과 기능 구현. <br/>
 2. DynamoDB Table 생성과 Lambda함수 환경변수 설정. <br/>
 3. 구현된 코드, S3에 업로드. <br/>
@@ -17,7 +17,7 @@ SQS Test내용과 Lambda에서 Javascript로 index.js를 작성하여 배포할 
 
 --------------------------------------------------------------------------------------<br/><br/><br/>
 
-<b>본문</b><br/>
+<b>&nbsp;&nbsp;&nbsp;본문</b><br/>
 
  1. Lambda 함수 생성과 기능 구현.</b> <br/>
 
