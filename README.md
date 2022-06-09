@@ -10,8 +10,7 @@
 5. API GateWay 생성 및 설정.<br/><br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;아래 목차는 추가로 진행한 내용이며, 본 focus Repository에는 포함돼있지 않습니다.<br/>
-&nbsp;&nbsp;&nbsp;6. Demo9,&nbsp; <a style="color: #009a87; background-color: #ffffff;" href="https://github.com/taemin-kwon93/demo9/tree/master/demo9/src/main/java" target="_blank" rel="noopener">SQS Test 코드 Repo</a><br/>
-&nbsp;&nbsp;&nbsp;7. Javascript로 index.js를 작성하고 배포하기. <br/><br/><br/><br/>
+&nbsp;&nbsp;&nbsp;6. Demo9,&nbsp; <a style="color: #009a87; background-color: #ffffff;" href="https://github.com/taemin-kwon93/demo9/tree/master/demo9/src/main/java" target="_blank" rel="noopener">SQS Test 코드 Repo</a><br/><br/><br/><br/>
 
 --------------------------------------------------------------------------------------
 <br/><br/><br/>
