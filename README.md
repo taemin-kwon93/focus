@@ -48,7 +48,7 @@ Lambda 파일 업로드를 S3에 객체 URL로 부터 받아옵니다.<br/>
 핸들러정보를 해당 파일에 맞게 수정해줍니다. <br/>
 ex) 패키지경로.클래스명::메소드명 -> example.Hello::handleRequest<br/><br/><br/><br/>
 
-<b>&nbsp;&nbsp;&nbsp;5. API GateWay 생성 및 설정.  <b><br/>
+<b>&nbsp;&nbsp;&nbsp;5. API Gateay 생성 및 설정.  <b><br/>
 <img width="600" alt="10-Make-Gate" src="https://user-images.githubusercontent.com/79136534/172771274-0ce567a6-7bfe-4756-89f5-c7f981c4e88e.png"><br/>
 API Gateway를 생성해준 후 경로와 통합 설정을 해줍니다.<br/><br/><br/><br/>
 
