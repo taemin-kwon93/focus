@@ -46,9 +46,12 @@ S3 버킷 생성을 클릭합니다. <br/>
 <img width="450" alt="7-Make-S3Bucket" src="https://user-images.githubusercontent.com/79136534/172768480-a2c5f84e-77ad-488b-a189-862a2c72b48c.png"> <br/>
 <img width="450" alt="8-Make-S3Bucket" src="https://user-images.githubusercontent.com/79136534/172768482-ec2e1176-9137-45cc-98aa-170290d5c5ef.png"> <br/>
 <img width="450" alt="9-Make-S3Bucket" src="https://user-images.githubusercontent.com/79136534/172768486-9b2a8fc9-1aa5-4916-a520-1d3b10a0466b.png"> <br/>
-버킷을 생성한 후, 구현된 jar파일을 담아줍니다. <br/> <br/>
+<font size="3">버킷을 생성한 후, 구현된 jar파일을 담아줍니다.</font> <br/> <br/>
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/79136534/172768630-33fde658-2d07-4cc3-b0ff-1f3ff538fa56.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/79136534/172768630-33fde658-2d07-4cc3-b0ff-1f3ff538fa56.png"><br/>
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/79136534/172769704-e794d35e-6b62-4490-b1e9-90f36ba54060.png"><br/>
+<font size="3">Lambda 파일 업로드를 S3에 객체 URL로 부터 받아옵니다.</font> <br/> <br/>
+
 
 --------------------------------------------------------------------------------------
 
