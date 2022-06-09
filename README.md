@@ -8,9 +8,11 @@
 3. 구현된 코드, S3에 업로드. 
 4. Amazon S3로 부터 Lambda에 코드소스를 업로드.
 5. API GateWay 생성 및 설정.<br/><br/>
+6. 맥OS의 환경에서는 Terminal, 윈도우 환경에서는 Bash shell을 이용하여 테스트 코드를 전송합니다.<br/>
+&nbsp;&nbsp;&nbsp;또는 PostMan과 같은 도구를 사용하여 Endpoint URL에 PUT 요청을 보냅니다.
 
 &nbsp;&nbsp;&nbsp;&nbsp;아래 목차는 추가로 진행한 내용이며, 본 focus Repository에는 포함돼있지 않습니다.<br/>
-&nbsp;&nbsp;&nbsp;6. Demo9,&nbsp; <a style="color: #009a87; background-color: #ffffff;" href="https://github.com/taemin-kwon93/demo9/tree/master/demo9/src/main/java" target="_blank" rel="noopener">SQS Test 코드 Repo</a><br/><br/><br/><br/>
+&nbsp;&nbsp;&nbsp;7. Demo9,&nbsp; <a style="color: #009a87; background-color: #ffffff;" href="https://github.com/taemin-kwon93/demo9/tree/master/demo9/src/main/java" target="_blank" rel="noopener">SQS Test 코드 Repo</a><br/><br/><br/><br/>
 
 --------------------------------------------------------------------------------------
 <br/><br/><br/>
@@ -52,6 +54,10 @@ ex) 패키지경로.클래스명::메소드명 -> example.Hello::handleRequest<b
 <img width="600" alt="10-Make-Gate" src="https://user-images.githubusercontent.com/79136534/172771274-0ce567a6-7bfe-4756-89f5-c7f981c4e88e.png"><br/>
 API Gateway를 생성해준 후 경로와 통합 설정을 해줍니다.<br/><br/><br/><br/>
 
+<b>6. 맥OS의 환경에서는 Terminal, 윈도우 환경에서는 Bash shell을 이용하여 테스트 코드를 전송합니다.<br/>
+&nbsp;&nbsp;&nbsp;또는 PostMan과 같은 도구를 사용하여 Endpoint URL에 PUT 요청을 보냅니다.<b/><br/>
+![image](https://user-images.githubusercontent.com/79136534/172897257-2065f959-789c-415c-9a1c-f466fdd55544.png)
+<br/><br/><br/><br/>
 
 
 
