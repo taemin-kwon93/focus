@@ -45,11 +45,16 @@ S3 버킷 생성을 클릭합니다. <br/>
 <img width="450" alt="9-Make-S3Bucket" src="https://user-images.githubusercontent.com/79136534/172768486-9b2a8fc9-1aa5-4916-a520-1d3b10a0466b.png"> <br/>
 버킷을 생성한 후, 구현된 jar파일을 담아줍니다. <br/> <br/>
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/79136534/172768630-33fde658-2d07-4cc3-b0ff-1f3ff538fa56.png"><br/>
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/79136534/172769704-e794d35e-6b62-4490-b1e9-90f36ba54060.png"><br/>
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/79136534/172768630-33fde658-2d07-4cc3-b0ff-1f3ff538fa56.png"><br/>
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/79136534/172769704-e794d35e-6b62-4490-b1e9-90f36ba54060.png"><br/>
 Lambda 파일 업로드를 S3에 객체 URL로 부터 받아옵니다.<br/> 
 핸들러정보를 해당 파일에 맞게 수정해줍니다. <br/>
-ex) 패키지경로.클래스명::메소드명 -> example.Hello::handleRequest<br/>
+ex) 패키지경로.클래스명::메소드명 -> example.Hello::handleRequest<br/><br/>
+
+<img width="600" alt="10-Make-Gate" src="https://user-images.githubusercontent.com/79136534/172771274-0ce567a6-7bfe-4756-89f5-c7f981c4e88e.png"><br/>
+API Gateway를 생성해준 후 경로와 통합 설정을 해줍니다.<br/>
+
+
 
 
 --------------------------------------------------------------------------------------
