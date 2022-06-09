@@ -54,9 +54,9 @@ ex) 패키지경로.클래스명::메소드명 -> example.Hello::handleRequest<b
 <img width="600" alt="10-Make-Gate" src="https://user-images.githubusercontent.com/79136534/172771274-0ce567a6-7bfe-4756-89f5-c7f981c4e88e.png"><br/>
 API Gateway를 생성해준 후 경로와 통합 설정을 해줍니다.<br/><br/><br/><br/>
 
-<b>6. 맥OS의 환경에서는 Terminal, 윈도우 환경에서는 Bash shell을 이용하여 테스트 코드를 전송합니다.<br/>
+<b>6. 맥 OS 환경에서는 Terminal, 윈도우 환경에서는 Bash shell을 이용하여 테스트 코드를 전송합니다.<br/>
 &nbsp;&nbsp;&nbsp;또는 PostMan과 같은 도구를 사용하여 Endpoint URL에 PUT 요청을 보냅니다.<b/><br/>
-![image](https://user-images.githubusercontent.com/79136534/172897257-2065f959-789c-415c-9a1c-f466fdd55544.png)
+<img width="500" alt="10-Make-Gate" src="https://user-images.githubusercontent.com/79136534/172897257-2065f959-789c-415c-9a1c-f466fdd55544.png"><br/>
 <br/><br/><br/><br/>
 
 
