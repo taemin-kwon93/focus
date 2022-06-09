@@ -20,12 +20,12 @@ SQS Test내용과 Lambda에서 Javascript로 index.js를 작성하여 배포할 
 <b> 1. Lambda 함수 생성과 기능 구현.</b>
 
 <img width="350" alt="1-Make-Lambda" src="https://user-images.githubusercontent.com/79136534/172765521-e6524448-9a43-431d-90f5-201e2065c8e6.png">
+<img width="300" alt="2-Make-Lambda" src="https://user-images.githubusercontent.com/79136534/172765693-8f227df2-f103-453d-95fc-7a087cb772fb.png">
+
 AWS Management 페이지에서 람다 함수를 검색한 후, 
 AWS Lambda페이지에서 함수 생성을 클릭합니다.
-
-<img width="350" alt="2-Make-Lambda" src="https://user-images.githubusercontent.com/79136534/172765693-8f227df2-f103-453d-95fc-7a087cb772fb.png">
 1번과 2번의 차례에 따라, 
-함수이름, 런타임 설정, 역할구성, 역할 이름 설정을 해준 후, 함수를 생성합니다. 
+함수이름, 런타임 설정, 역할구성, 역할 이름 설정을 해준 후, 함수를 생성합니다. <br/>
 
 
 <b> 2. DynamoDB Table 생성과 Lambda함수 환경변수 설정.</b>
