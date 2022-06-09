@@ -15,7 +15,7 @@
 --------------------------------------------------------------------------------------
 <br/><br/><br/>
 
-<img width="450" alt="Flow" src="https://user-images.githubusercontent.com/79136534/172778840-417b4e99-8d90-44c5-b0cb-254ad1219678.png">
+<img width="550" alt="Flow" src="https://user-images.githubusercontent.com/79136534/172778840-417b4e99-8d90-44c5-b0cb-254ad1219678.png">
 <b>&nbsp;&nbsp;&nbsp;본문</b><br/>
 
  1. Lambda 함수 생성과 기능 구현.</b> <br/>
