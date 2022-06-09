@@ -19,34 +19,34 @@ SQS Test내용과 Lambda에서 Javascript로 index.js를 작성하여 배포할 
 
 <b> 1. Lambda 함수 생성과 기능 구현.</b>
 
-<img width="890" alt="1-Make-Lambda" src="https://user-images.githubusercontent.com/79136534/172765521-e6524448-9a43-431d-90f5-201e2065c8e6.png">
+<img width="350" alt="1-Make-Lambda" src="https://user-images.githubusercontent.com/79136534/172765521-e6524448-9a43-431d-90f5-201e2065c8e6.png">
 AWS Management 페이지에서 람다 함수를 검색한 후, 
 AWS Lambda페이지에서 함수 생성을 클릭합니다.
 
-<img width="844" alt="2-Make-Lambda" src="https://user-images.githubusercontent.com/79136534/172765693-8f227df2-f103-453d-95fc-7a087cb772fb.png">
+<img width="350" alt="2-Make-Lambda" src="https://user-images.githubusercontent.com/79136534/172765693-8f227df2-f103-453d-95fc-7a087cb772fb.png">
 1번과 2번의 차례에 따라, 
 함수이름, 런타임 설정, 역할구성, 역할 이름 설정을 해준 후, 함수를 생성합니다. 
 
 
 <b> 2. DynamoDB Table 생성과 Lambda함수 환경변수 설정.</b>
-<img width="886" alt="3-Make-DynamoDB" src="https://user-images.githubusercontent.com/79136534/172766351-45254ba1-8dc6-465f-b56a-02be01fd9ed7.png">
-<img width="623" alt="4-Make-DynamoDB" src="https://user-images.githubusercontent.com/79136534/172766675-f2c3587c-dff3-430a-bfa3-1c98fb4b441c.png">
+<img width="350" alt="3-Make-DynamoDB" src="https://user-images.githubusercontent.com/79136534/172766351-45254ba1-8dc6-465f-b56a-02be01fd9ed7.png">
+<img width="350" alt="4-Make-DynamoDB" src="https://user-images.githubusercontent.com/79136534/172766675-f2c3587c-dff3-430a-bfa3-1c98fb4b441c.png">
 
 테이블 생성을 클릭하고 
 테이블 이름, 파티션 키 를 설정해 준 후 아래에 테이블 생성을 클릭합니다.
 
 <b> 3. 구현된 코드, S3에 업로드.</b>
-<img width="879" alt="5-Make-S3Bucket" src="https://user-images.githubusercontent.com/79136534/172767321-f5292a6c-ed88-4c3f-b8b2-cef6d530727d.png">
-<img width="620" alt="6-Make-S3Bucket" src="https://user-images.githubusercontent.com/79136534/172767327-b7ef7de8-f63f-4700-b4df-73734d9c51cb.png">
+<img width="350" alt="5-Make-S3Bucket" src="https://user-images.githubusercontent.com/79136534/172767321-f5292a6c-ed88-4c3f-b8b2-cef6d530727d.png">
+<img width="350" alt="6-Make-S3Bucket" src="https://user-images.githubusercontent.com/79136534/172767327-b7ef7de8-f63f-4700-b4df-73734d9c51cb.png">
 S3 버킷 생성을 클릭합니다.
 버킷명과 리전을 설정해줍니다.
 
-<img width="679" alt="7-Make-S3Bucket" src="https://user-images.githubusercontent.com/79136534/172768480-a2c5f84e-77ad-488b-a189-862a2c72b48c.png">
-<img width="849" alt="8-Make-S3Bucket" src="https://user-images.githubusercontent.com/79136534/172768482-ec2e1176-9137-45cc-98aa-170290d5c5ef.png">
-<img width="627" alt="9-Make-S3Bucket" src="https://user-images.githubusercontent.com/79136534/172768486-9b2a8fc9-1aa5-4916-a520-1d3b10a0466b.png">
+<img width="350" alt="7-Make-S3Bucket" src="https://user-images.githubusercontent.com/79136534/172768480-a2c5f84e-77ad-488b-a189-862a2c72b48c.png">
+<img width="350" alt="8-Make-S3Bucket" src="https://user-images.githubusercontent.com/79136534/172768482-ec2e1176-9137-45cc-98aa-170290d5c5ef.png">
+<img width="350" alt="9-Make-S3Bucket" src="https://user-images.githubusercontent.com/79136534/172768486-9b2a8fc9-1aa5-4916-a520-1d3b10a0466b.png">
 버킷을 생성한 후, 구현된 jar파일을 담아줍니다.
 
-<img width="862" alt="image" src="https://user-images.githubusercontent.com/79136534/172768630-33fde658-2d07-4cc3-b0ff-1f3ff538fa56.png">
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/79136534/172768630-33fde658-2d07-4cc3-b0ff-1f3ff538fa56.png">
 
 --------------------------------------------------------------------------------------
 
