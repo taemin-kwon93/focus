@@ -9,10 +9,22 @@
 4. Amazon S3로 부터 Lambda에 코드소스를 업로드.
 5. API GateWay 생성 및 설정.<br/><br/>
 
-아래 목차는 추가로 진행한 내용이며, 본 focus Repository에는 포함되어있지 않습니다.
-6. Demo9, SQS . https://github.com/taemin-kwon93/demo9/tree/master/demo9/src/main/java
-7. Javascript로 index.js를 작성하고 배포하기. <br/><br/><br/><br/>
+아래 목차는 추가로 진행한 내용이며, 본 focus Repository에는 포함되어있지 않습니다.<br/>
+6. Demo9, SQS . https://github.com/taemin-kwon93/demo9/tree/master/demo9/src/main/java<br/>
+7. Javascript로 index.js를 작성하고 배포하기. <br/><br/><br/>
 
+**테스트 curl **
+
+curl -X PUT 'https://fx68tqoqbk.execute-api.ap-northeast-2.amazonaws.com/regist' \
+  -H 'content-type: application/json' \
+  -d '{
+    "internationalPhoneNumber" : "테스트ID(S)값입력",
+    "name" : "테스트이름값입력",
+    "email" : "test@email.com",
+    "isAgree" : true
+}'
+
+<br/><br/><br/>
 --------------------------------------------------------------------------------------
 <br/><br/><br/>
 <b>&nbsp;&nbsp;&nbsp;본문</b><br/>
@@ -37,7 +49,7 @@ AWS Lambda페이지에서 함수 생성을 클릭합니다. <br/>
 <img width="450" alt="6-Make-S3Bucket" src="https://user-images.githubusercontent.com/79136534/172767327-b7ef7de8-f63f-4700-b4df-73734d9c51cb.png"> <br/>
 <img width="450" alt="8-Make-S3Bucket" src="https://user-images.githubusercontent.com/79136534/172768482-ec2e1176-9137-45cc-98aa-170290d5c5ef.png"> <br/>
 S3 버킷 생성을 클릭합니다. <br/>
-버킷명과 리전을 설정해줍니다. <br/><br/>
+버킷명과 리전을 설정해줍니다. <br/>
 버킷을 생성한 후, 구현된 jar파일을 담아줍니다. <br/> <br/><br/><br/>
 
 <b>&nbsp;&nbsp;&nbsp;4. Amazon S3로 부터 Lambda에 코드소스를 업로드. <b><br/>
@@ -49,7 +61,7 @@ ex) 패키지경로.클래스명::메소드명 -> example.Hello::handleRequest<b
 
 <b>&nbsp;&nbsp;&nbsp;5. API GateWay 생성 및 설정.  <b><br/>
 <img width="600" alt="10-Make-Gate" src="https://user-images.githubusercontent.com/79136534/172771274-0ce567a6-7bfe-4756-89f5-c7f981c4e88e.png"><br/>
-API Gateway를 생성해준 후 경로와 통합 설정을 해줍니다.<br/><br/><br/>
+API Gateway를 생성해준 후 경로와 통합 설정을 해줍니다.<br/><br/><br/><br/>
 
 
 
