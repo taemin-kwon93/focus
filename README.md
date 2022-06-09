@@ -1,8 +1,6 @@
 # focus
 <br>
-&nbsp;&nbsp;&nbsp; 목차 5번까지의 내용이 AWS에 서비스를 배포하고 실행하기 위한 절차 입니다.<br/>
-&nbsp;&nbsp;&nbsp;6번 이후의 내용은 추가적으로 진행한 내용입니다.<br/>
-&nbsp;&nbsp;&nbsp;SQS Test내용과 Javascript로 index.js를 작성하여 배포할 때의 코드 내용입니다.<br/><br/><br/>
+&nbsp;&nbsp;&nbsp;AWS에 서비스를 배포하고 실행하기 위한 절차 입니다.<br/>
 
 <b>&nbsp;&nbsp;&nbsp;목차</b>
 1. Lambda 함수 생성과 기능 구현. <br/>
