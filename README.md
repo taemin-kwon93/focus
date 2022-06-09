@@ -12,6 +12,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;아래 목차는 추가로 진행한 내용이며, 본 focus Repository에는 포함돼있지 않습니다.<br/>
 &nbsp;&nbsp;&nbsp;6. Demo9,&nbsp; <a style="color: #009a87; background-color: #ffffff;" href="https://github.com/taemin-kwon93/demo9/tree/master/demo9/src/main/java" target="_blank" rel="noopener">SQS Test 코드 Repo</a><br/><br/><br/><br/>
 
+![AssignmentFlow](https://user-images.githubusercontent.com/79136534/172778392-e50dfb31-04e1-4854-a7b6-f9d54a398199.png)
+
+
 --------------------------------------------------------------------------------------
 <br/><br/><br/>
 <b>&nbsp;&nbsp;&nbsp;본문</b><br/>
