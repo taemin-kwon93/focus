@@ -9,22 +9,10 @@
 4. Amazon S3로 부터 Lambda에 코드소스를 업로드.
 5. API GateWay 생성 및 설정.<br/><br/>
 
-아래 목차는 추가로 진행한 내용이며, 본 focus Repository에는 포함되어있지 않습니다.<br/>
-6. Demo9, SQS . https://github.com/taemin-kwon93/demo9/tree/master/demo9/src/main/java<br/>
-7. Javascript로 index.js를 작성하고 배포하기. <br/><br/><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;아래 목차는 추가로 진행한 내용이며, 본 focus Repository에는 포함되어있지 않습니다.<br/>
+&nbsp;&nbsp;&nbsp;6. Demo9, SQS . https://github.com/taemin-kwon93/demo9/tree/master/demo9/src/main/java<br/>
+&nbsp;&nbsp;&nbsp;7. Javascript로 index.js를 작성하고 배포하기. <br/><br/><br/><br/>
 
-**테스트 curl **
-
-curl -X PUT 'https://fx68tqoqbk.execute-api.ap-northeast-2.amazonaws.com/regist' \
-  -H 'content-type: application/json' \
-  -d '{
-    "internationalPhoneNumber" : "테스트ID(S)값입력",
-    "name" : "테스트이름값입력",
-    "email" : "test@email.com",
-    "isAgree" : true
-}'
-
-<br/><br/><br/>
 --------------------------------------------------------------------------------------
 <br/><br/><br/>
 <b>&nbsp;&nbsp;&nbsp;본문</b><br/>
