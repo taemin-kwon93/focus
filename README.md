@@ -7,9 +7,10 @@
 2. DynamoDB Table 생성과 Lambda함수 환경변수 설정.
 3. 구현된 코드, S3에 업로드. 
 4. Amazon S3로 부터 Lambda에 코드소스를 업로드.
-5. API GateWay 생성 및 설정.<br/>
+5. API GateWay 생성 및 설정.<br/><br/>
 
-6. Demo9에 SQS 예제.
+아래 목차는 추가로 진행한 내용이며, 본 focus Repository에는 포함되어있지 않습니다.
+6. Demo9, SQS . https://github.com/taemin-kwon93/demo9/tree/master/demo9/src/main/java
 7. Javascript로 index.js를 작성하고 배포하기. <br/><br/><br/><br/>
 
 --------------------------------------------------------------------------------------
