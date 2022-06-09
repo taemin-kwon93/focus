@@ -8,9 +8,9 @@
 3. 구현된 코드, S3에 업로드. 
 4. Amazon S3로 부터 Lambda에 코드소스를 업로드.
 5. API GateWay 생성 및 설정.<br/><br/>
-<a style="color: #009a87; background-color: #ffffff;" href="https://github.com/taemin-kwon93/what_did_you_learn_today/blob/main/Java/CodeUp100%EB%AC%B8%EC%A0%9C/Main97.java" target="_blank" rel="noopener">1097번 문제, Taemin's Github 바로가기✨</a></span></p>
+
 &nbsp;&nbsp;&nbsp;&nbsp;아래 목차는 추가로 진행한 내용이며, 본 focus Repository에는 포함돼있지 않습니다.<br/>
-&nbsp;&nbsp;&nbsp;6. Demo9, SQS Test 코드 Repo. https://github.com/taemin-kwon93/demo9/tree/master/demo9/src/main/java<br/>
+&nbsp;&nbsp;&nbsp;6. Demo9,<a style="color: #009a87; background-color: #ffffff;" href="https://github.com/taemin-kwon93/demo9/tree/master/demo9/src/main/java" target="_blank" rel="noopener">SQS Test 코드 Repo</a></span></p><br/>
 &nbsp;&nbsp;&nbsp;7. Javascript로 index.js를 작성하고 배포하기. <br/><br/><br/><br/>
 
 --------------------------------------------------------------------------------------
