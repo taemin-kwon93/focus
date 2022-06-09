@@ -1,6 +1,6 @@
 # focus
 <br>
-&nbsp;&nbsp;&nbsp;AWS에 서비스를 배포하고 실행하기 위한 절차 입니다.<br/><br/><br/>
+#&nbsp;&nbsp;&nbsp;AWS에 서비스를 배포하고 실행하기 위한 절차 입니다.<br/><br/><br/>
 
 <b>&nbsp;&nbsp;&nbsp;목차</b>
 1. Lambda 함수 생성과 기능 구현. 
