@@ -1,15 +1,15 @@
 # focus
 <br>
-&nbsp;&nbsp;&nbsp;AWS에 서비스를 배포하고 실행하기 위한 절차 입니다.<br/>
+&nbsp;&nbsp;&nbsp;AWS에 서비스를 배포하고 실행하기 위한 절차 입니다.<br/><br/><br/>
 
 <b>&nbsp;&nbsp;&nbsp;목차</b>
-1. Lambda 함수 생성과 기능 구현. <br/>
-2. DynamoDB Table 생성과 Lambda함수 환경변수 설정. <br/>
-3. 구현된 코드, S3에 업로드. <br/>
-4. Amazon S3로 부터 Lambda에 코드소스를 업로드. <br/>
-5. API GateWay 생성 및 설정. <br/>
+1. Lambda 함수 생성과 기능 구현. 
+2. DynamoDB Table 생성과 Lambda함수 환경변수 설정.
+3. 구현된 코드, S3에 업로드. 
+4. Amazon S3로 부터 Lambda에 코드소스를 업로드.
+5. API GateWay 생성 및 설정.<br/>
 
-6. Demo9에 SQS 예제. <br/>
+6. Demo9에 SQS 예제.
 7. Javascript로 index.js를 작성하고 배포하기. <br/><br/><br/><br/>
 
 --------------------------------------------------------------------------------------
