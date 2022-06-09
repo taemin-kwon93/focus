@@ -24,7 +24,7 @@
 AWS Management 페이지에서 람다 함수를 검색한 후,  <br/>
 AWS Lambda페이지에서 함수 생성을 클릭합니다. <br/>
 1번과 2번의 차례에 따라,  <br/>
-함수이름, 런타임 설정, 역할구성, 역할 이름 설정을 해준 후, 함수를 생성합니다. <br/><br/><br/><br/>
+함수이름, 런타임 설정, 역할구성, 역할 이름 설정을 해준 후, 함수를 생성합니다. <br/><br/><br/>
 
 
 <b>&nbsp;&nbsp;&nbsp;2. DynamoDB Table 생성과 Lambda함수 환경변수 설정.</b> <br/>
@@ -32,7 +32,7 @@ AWS Lambda페이지에서 함수 생성을 클릭합니다. <br/>
 <img width="350" alt="4-1-Make-DynamoDB" src="https://user-images.githubusercontent.com/79136534/172899985-a396b4e2-2a3a-4f72-9b44-d63bc05e9e31.png"> <br/>
 테이블 생성을 클릭하고  <br/>
 테이블 이름, 파티션 키 를 설정해 준 후 아래에 테이블 생성을 클릭합니다. <br/>
-람다 함수에서 테이블을 확인 하도록 환경변수에 TABLE_NAME과 '테이블 이름'을 설정해줍니다.<br/><br/><br/>
+람다 함수에서 테이블을 확인 하도록 환경변수에 TABLE_NAME과 '테이블 이름'을 설정해줍니다.<br/><br/><br/><br/>
 
 <b>&nbsp;&nbsp;&nbsp; 3. 구현된 코드, S3에 업로드.</b> <br/>
 <img width="450" alt="6-Make-S3Bucket" src="https://user-images.githubusercontent.com/79136534/172767327-b7ef7de8-f63f-4700-b4df-73734d9c51cb.png"> <br/>
