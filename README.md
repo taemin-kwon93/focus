@@ -5,11 +5,11 @@
 <b>&nbsp;&nbsp;&nbsp;목차</b>
 1. Lambda 함수 생성과 기능 구현. 
 2. DynamoDB Table 생성과 Lambda함수 환경변수 설정.
-3. 구현된 코드, S3에 업로드. 
+3. 구현한 코드를 S3에 업로드. 
 4. Amazon S3로 부터 Lambda에 코드소스를 업로드.
-5. API GateWay 생성 및 설정.<br/>
-6. 맥OS의 환경에서는 Terminal, 윈도우 환경에서는 Bash shell을 이용하여 테스트 코드를 전송합니다.<br/>
-&nbsp;&nbsp;&nbsp;또는 PostMan과 같은 도구를 사용하여 Endpoint URL에 PUT 요청을 보냅니다.<br/><br/><br/><br/>
+5. API Gateway 생성 및 설정.<br/>
+6. 맥 OS 환경에서는 Terminal, 윈도우 환경에서는 Bash shell을 이용하여 테스트 코드를 전송합니다.<br/>
+&nbsp;&nbsp;또는 PostMan과 같은 도구를 사용하여 Endpoint URL에 PUT 요청을 보냅니다.<br/><br/><br/><br/>
 
 --------------------------------------------------------------------------------------
 <br/><br/><br/>
