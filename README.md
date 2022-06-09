@@ -9,10 +9,7 @@
 4. Amazon S3로 부터 Lambda에 코드소스를 업로드.
 5. API GateWay 생성 및 설정.<br/>
 6. 맥OS의 환경에서는 Terminal, 윈도우 환경에서는 Bash shell을 이용하여 테스트 코드를 전송합니다.<br/>
-&nbsp;&nbsp;&nbsp;또는 PostMan과 같은 도구를 사용하여 Endpoint URL에 PUT 요청을 보냅니다.
-
-&nbsp;&nbsp;&nbsp;&nbsp;아래 목차는 추가로 진행한 내용이며, 본 focus Repository에는 포함돼있지 않습니다.<br/>
-&nbsp;&nbsp;&nbsp;7. Demo9,&nbsp; <a style="color: #009a87; background-color: #ffffff;" href="https://github.com/taemin-kwon93/demo9/tree/master/demo9/src/main/java" target="_blank" rel="noopener">SQS Test 코드 Repo</a><br/><br/><br/><br/>
+&nbsp;&nbsp;&nbsp;또는 PostMan과 같은 도구를 사용하여 Endpoint URL에 PUT 요청을 보냅니다.<br/><br/><br/><br/>
 
 --------------------------------------------------------------------------------------
 <br/><br/><br/>
