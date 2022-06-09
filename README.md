@@ -18,7 +18,7 @@ SQS Test내용과 Lambda에서 Javascript로 index.js를 작성하여 배포할 
 --------------------------------------------------------------------------------------<br/><br/><br/>
 
 <b>본문</b><br/>
-<b>  위 목차 내용에 대한 자세한 과정입니다. <br/>
+
  1. Lambda 함수 생성과 기능 구현.</b> <br/>
 
 <img width="450" alt="2-Make-Lambda" src="https://user-images.githubusercontent.com/79136534/172765693-8f227df2-f103-453d-95fc-7a087cb772fb.png">
